@@ -1,0 +1,40 @@
+22:01:00.453 | Thread 3 | GENERISANJE I UPIS U KES ZA primer1
+22:01:00.455 | Thread 4 | KES HIT ZA primer1
+22:01:00.455 | Thread 6 | KES HIT ZA primer1
+22:01:00.455 | Thread 5 | KES HIT ZA primer1
+22:01:00.455 | Thread 6 |  DOBIJA primer1.csv ZA 203 ms
+22:01:00.456 | Thread 5 |  DOBIJA primer1.csv ZA 62 ms
+22:01:00.460 | Thread 3 |  DOBIJA primer1.csv ZA 486 ms
+22:01:00.466 | Thread 4 |  DOBIJA primer1.csv ZA 323 ms
+22:01:00.542 | Thread 7 | KES HIT ZA primer1
+22:01:00.542 | Thread 7 |  DOBIJA primer1.csv ZA 0 ms
+22:01:00.685 | Thread 6 | KES HIT ZA primer1
+22:01:00.685 | Thread 6 |  DOBIJA primer1.csv ZA 0 ms
+22:01:00.836 | Thread 5 | KES HIT ZA primer1
+22:01:00.836 | Thread 5 |  DOBIJA primer1.csv ZA 0 ms
+22:01:00.972 | Thread 3 | KES HIT ZA primer1
+22:01:00.972 | Thread 3 |  DOBIJA primer1.csv ZA 0 ms
+22:01:01.100 | Thread 4 | KES HIT ZA primer1
+22:01:01.102 | Thread 4 |  DOBIJA primer1.csv ZA 0 ms
+22:01:01.238 | Thread 7 | KES HIT ZA primer1
+22:01:01.238 | Thread 7 |  DOBIJA primer1.csv ZA 0 ms
+22:01:01.365 | Thread 6 | KES HIT ZA primer1
+22:01:01.365 | Thread 6 |  DOBIJA primer1.csv ZA 0 ms
+22:01:01.509 | Thread 5 | KES HIT ZA primer1
+22:01:01.509 | Thread 5 |  DOBIJA primer1.csv ZA 0 ms
+22:01:01.641 | Thread 3 | KES HIT ZA primer1
+22:01:01.641 | Thread 3 |  DOBIJA primer1.csv ZA 0 ms
+22:01:01.775 | Thread 4 | KES HIT ZA primer1
+22:01:01.775 | Thread 4 |  DOBIJA primer1.csv ZA 0 ms
+22:01:01.911 | Thread 7 | KES HIT ZA primer1
+22:01:01.911 | Thread 7 |  DOBIJA primer1.csv ZA 0 ms
+22:01:02.046 | Thread 6 | KES HIT ZA primer1
+22:01:02.046 | Thread 6 |  DOBIJA primer1.csv ZA 0 ms
+22:01:02.181 | Thread 5 | KES HIT ZA primer1
+22:01:02.181 | Thread 5 |  DOBIJA primer1.csv ZA 0 ms
+22:01:02.323 | Thread 3 | KES HIT ZA primer1
+22:01:02.323 | Thread 3 |  DOBIJA primer1.csv ZA 0 ms
+22:01:02.477 | Thread 4 | KES HIT ZA primer1
+22:01:02.477 | Thread 4 |  DOBIJA primer1.csv ZA 0 ms
+22:01:02.574 | Thread 7 | KES HIT ZA primer1
+22:01:02.574 | Thread 7 |  DOBIJA primer1.csv ZA 0 ms

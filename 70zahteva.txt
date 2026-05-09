@@ -1,0 +1,140 @@
+22:28:36.604 | Thread 3 | GENERISANJE I UPIS U KES ZA primer3
+22:28:36.606 | Thread 4 | KES HIT ZA primer3
+22:28:36.607 | Thread 4 |  DOBIJA primer3.csv ZA 375 ms
+22:28:36.609 | Thread 5 | GENERISANJE I UPIS U KES ZA primer2
+22:28:36.609 | Thread 6 | KES HIT ZA primer2
+22:28:36.611 | Thread 5 |  DOBIJA primer2.csv ZA 248 ms
+22:28:36.612 | Thread 6 |  DOBIJA primer2.csv ZA 120 ms
+22:28:36.613 | Thread 3 |  DOBIJA primer3.csv ZA 470 ms
+22:28:36.626 | Thread 7 | GENERISANJE I UPIS U KES ZA primer4
+22:28:36.626 | Thread 7 |  DOBIJA primer4.csv ZA 3 ms
+22:28:36.748 | Thread 4 | KES HIT ZA primer3
+22:28:36.748 | Thread 4 |  DOBIJA primer3.csv ZA 0 ms
+22:28:41.817 | Thread 5 | OBNAVLJANJE KESA ZA primer2
+22:28:41.817 | Thread 5 |  DOBIJA primer2.csv ZA 2 ms
+22:29:01.802 | Thread 6 | GENERISANJE I UPIS U KES ZA primer5
+22:29:01.803 | Thread 6 |  DOBIJA primer5.csv ZA 2 ms
+22:30:40.387 | Thread 7 | GENERISANJE I UPIS U KES ZA primer1
+22:30:40.387 | Thread 7 |  DOBIJA primer1.csv ZA 4 ms
+22:30:40.390 | Thread 4 | OBNAVLJANJE KESA ZA primer3
+22:30:40.390 | Thread 3 | KES HIT ZA primer3
+22:30:40.391 | Thread 4 |  DOBIJA primer3.csv ZA 7 ms
+22:30:40.391 | Thread 3 |  DOBIJA primer3.csv ZA 8 ms
+22:30:40.393 | Thread 7 | OBNAVLJANJE KESA ZA primer2
+22:30:40.393 | Thread 7 |  DOBIJA primer2.csv ZA 4 ms
+22:30:40.397 | Thread 5 | OBNAVLJANJE KESA ZA primer5
+22:30:40.397 | Thread 6 | KES HIT ZA primer1
+22:30:40.398 | Thread 5 |  DOBIJA primer5.csv ZA 11 ms
+22:30:40.399 | Thread 6 |  DOBIJA primer1.csv ZA 11 ms
+22:30:40.409 | Thread 4 | KES HIT ZA primer2
+22:30:40.409 | Thread 4 |  DOBIJA primer2.csv ZA 0 ms
+22:30:51.800 | Thread 3 | OBNAVLJANJE KESA ZA primer4
+22:30:51.800 | Thread 3 |  DOBIJA primer4.csv ZA 3 ms
+22:30:57.307 | Thread 7 | OBNAVLJANJE KESA ZA primer4
+22:30:57.308 | Thread 7 |  DOBIJA primer4.csv ZA 3 ms
+22:31:11.284 | Thread 5 | OBNAVLJANJE KESA ZA primer2
+22:31:11.284 | Thread 5 |  DOBIJA primer2.csv ZA 2 ms
+22:31:14.809 | Thread 6 | OBNAVLJANJE KESA ZA primer3
+22:31:14.830 | Thread 6 |  DOBIJA primer3.csv ZA 26 ms
+22:31:14.887 | Thread 4 | OBNAVLJANJE KESA ZA primer1
+22:31:14.897 | Thread 5 | OBNAVLJANJE KESA ZA primer5
+22:31:14.900 | Thread 6 | KES HIT ZA primer5
+22:31:14.916 | Thread 7 | OBNAVLJANJE KESA ZA primer2
+22:31:14.925 | Thread 5 |  DOBIJA primer5.csv ZA 6 ms
+22:31:14.931 | Thread 6 |  DOBIJA primer5.csv ZA 22 ms
+22:31:14.935 | Thread 5 | KES HIT ZA primer2
+22:31:14.936 | Thread 6 | KES HIT ZA primer3
+22:31:14.941 | Thread 4 |  DOBIJA primer1.csv ZA 21 ms
+22:31:15.051 | Thread 7 |  DOBIJA primer2.csv ZA 35 ms
+22:31:15.083 | Thread 5 |  DOBIJA primer2.csv ZA 6 ms
+22:31:15.132 | Thread 6 |  DOBIJA primer3.csv ZA 5 ms
+22:31:15.174 | Thread 7 | KES HIT ZA primer3
+22:31:15.206 | Thread 3 | KES HIT ZA primer5
+22:31:15.222 | Thread 5 | KES HIT ZA primer3
+22:31:15.236 | Thread 6 | KES HIT ZA primer2
+22:31:15.245 | Thread 4 | KES HIT ZA primer3
+22:31:15.254 | Thread 7 |  DOBIJA primer3.csv ZA 123 ms
+22:31:15.256 | Thread 3 |  DOBIJA primer5.csv ZA 338 ms
+22:31:15.257 | Thread 5 |  DOBIJA primer3.csv ZA 104 ms
+22:31:15.262 | Thread 6 |  DOBIJA primer2.csv ZA 70 ms
+22:31:15.264 | Thread 6 | KES HIT ZA primer5
+22:31:15.265 | Thread 7 | KES HIT ZA primer5
+22:31:15.266 | Thread 3 | OBNAVLJANJE KESA ZA primer4
+22:31:15.267 | Thread 6 |  DOBIJA primer5.csv ZA 2 ms
+22:31:15.270 | Thread 6 | KES HIT ZA primer2
+22:31:15.274 | Thread 4 |  DOBIJA primer3.csv ZA 205 ms
+22:31:15.279 | Thread 4 | KES HIT ZA primer2
+22:31:15.280 | Thread 7 |  DOBIJA primer5.csv ZA 9 ms
+22:31:15.284 | Thread 5 | KES HIT ZA primer2
+22:31:15.290 | Thread 3 |  DOBIJA primer4.csv ZA 10 ms
+22:31:15.300 | Thread 6 |  DOBIJA primer2.csv ZA 5 ms
+22:31:15.304 | Thread 4 |  DOBIJA primer2.csv ZA 6 ms
+22:31:15.306 | Thread 7 | KES HIT ZA primer2
+22:31:15.307 | Thread 5 |  DOBIJA primer2.csv ZA 29 ms
+22:31:15.307 | Thread 5 | KES HIT ZA primer4
+22:31:15.307 | Thread 6 | KES HIT ZA primer3
+22:31:15.310 | Thread 3 | KES HIT ZA primer3
+22:31:15.312 | Thread 3 |  DOBIJA primer3.csv ZA 12 ms
+22:31:15.313 | Thread 3 | KES HIT ZA primer1
+22:31:15.314 | Thread 7 |  DOBIJA primer2.csv ZA 27 ms
+22:31:15.314 | Thread 4 | KES HIT ZA primer4
+22:31:15.314 | Thread 5 |  DOBIJA primer4.csv ZA 0 ms
+22:31:15.317 | Thread 5 | KES HIT ZA primer4
+22:31:15.317 | Thread 6 |  DOBIJA primer3.csv ZA 6 ms
+22:31:15.318 | Thread 6 | KES HIT ZA primer5
+22:31:15.319 | Thread 4 |  DOBIJA primer4.csv ZA 10 ms
+22:31:15.319 | Thread 4 | KES HIT ZA primer2
+22:31:15.319 | Thread 6 |  DOBIJA primer5.csv ZA 0 ms
+22:31:15.320 | Thread 6 | KES HIT ZA primer3
+22:31:15.322 | Thread 7 | OBNAVLJANJE KESA ZA primer3
+22:31:15.328 | Thread 3 |  DOBIJA primer1.csv ZA 0 ms
+22:31:15.333 | Thread 4 |  DOBIJA primer2.csv ZA 2 ms
+22:31:15.344 | Thread 5 |  DOBIJA primer4.csv ZA 0 ms
+22:31:15.347 | Thread 6 |  DOBIJA primer3.csv ZA 2 ms
+22:31:15.349 | Thread 7 |  DOBIJA primer3.csv ZA 15 ms
+22:31:15.351 | Thread 3 | KES HIT ZA primer1
+22:31:15.354 | Thread 5 | KES HIT ZA primer4
+22:31:15.362 | Thread 4 | KES HIT ZA primer2
+22:31:15.363 | Thread 6 | KES HIT ZA primer3
+22:31:15.364 | Thread 4 |  DOBIJA primer2.csv ZA 20 ms
+22:31:15.364 | Thread 7 | KES HIT ZA primer4
+22:31:15.366 | Thread 6 |  DOBIJA primer3.csv ZA 14 ms
+22:31:15.367 | Thread 6 | KES HIT ZA primer2
+22:31:15.368 | Thread 7 |  DOBIJA primer4.csv ZA 15 ms
+22:31:15.370 | Thread 3 |  DOBIJA primer1.csv ZA 21 ms
+22:31:15.372 | Thread 3 | KES HIT ZA primer4
+22:31:15.373 | Thread 6 |  DOBIJA primer2.csv ZA 2 ms
+22:31:15.373 | Thread 6 | KES HIT ZA primer3
+22:31:15.373 | Thread 6 |  DOBIJA primer3.csv ZA 0 ms
+22:31:15.373 | Thread 6 | KES HIT ZA primer3
+22:31:15.375 | Thread 5 |  DOBIJA primer4.csv ZA 15 ms
+22:31:15.376 | Thread 5 | KES HIT ZA primer4
+22:31:15.384 | Thread 7 | KES HIT ZA primer5
+22:31:15.388 | Thread 4 | KES HIT ZA primer1
+22:31:15.400 | Thread 6 |  DOBIJA primer3.csv ZA 1 ms
+22:31:15.400 | Thread 3 |  DOBIJA primer4.csv ZA 4 ms
+22:31:15.406 | Thread 5 |  DOBIJA primer4.csv ZA 7 ms
+22:31:15.407 | Thread 7 |  DOBIJA primer5.csv ZA 18 ms
+22:31:15.407 | Thread 6 | KES HIT ZA primer2
+22:31:15.408 | Thread 4 |  DOBIJA primer1.csv ZA 37 ms
+22:31:15.417 | Thread 6 |  DOBIJA primer2.csv ZA 7 ms
+22:31:15.421 | Thread 5 | KES HIT ZA primer4
+22:31:15.422 | Thread 7 | KES HIT ZA primer1
+22:31:15.422 | Thread 5 |  DOBIJA primer4.csv ZA 14 ms
+22:31:15.422 | Thread 5 | KES HIT ZA primer4
+22:31:15.422 | Thread 6 | KES HIT ZA primer4
+22:31:15.424 | Thread 3 | OBNAVLJANJE KESA ZA primer1
+22:31:15.426 | Thread 5 |  DOBIJA primer4.csv ZA 0 ms
+22:31:15.426 | Thread 4 | KES HIT ZA primer3
+22:31:15.426 | Thread 7 |  DOBIJA primer1.csv ZA 14 ms
+22:31:15.429 | Thread 7 | KES HIT ZA primer4
+22:31:15.429 | Thread 4 |  DOBIJA primer3.csv ZA 10 ms
+22:31:15.430 | Thread 5 | OBNAVLJANJE KESA ZA primer5
+22:31:15.430 | Thread 4 | KES HIT ZA primer5
+22:31:15.430 | Thread 5 |  DOBIJA primer5.csv ZA 3 ms
+22:31:15.430 | Thread 5 | KES HIT ZA primer3
+22:31:15.430 | Thread 4 |  DOBIJA primer5.csv ZA 0 ms
+22:31:15.430 | Thread 3 |  DOBIJA primer1.csv ZA 20 ms
+22:31:15.431 | Thread 5 |  DOBIJA primer3.csv ZA 0 ms
+22:31:15.431 | Thread 6 |  DOBIJA primer4.csv ZA 3 ms
+22:31:15.431 | Thread 7 |  DOBIJA primer4.csv ZA 0 ms

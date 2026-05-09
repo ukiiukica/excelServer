@@ -1,0 +1,40 @@
+22:20:05.549 | Thread 5 | KES HIT ZA primer1
+22:20:05.550 | Thread 3 | GENERISANJE I UPIS U KES ZA primer1
+22:20:05.550 | Thread 6 | KES HIT ZA primer1
+22:20:05.550 | Thread 7 | KES HIT ZA primer1
+22:20:05.551 | Thread 3 |  DOBIJA primer1.csv ZA 489 ms
+22:20:05.551 | Thread 5 |  DOBIJA primer1.csv ZA 349 ms
+22:20:05.551 | Thread 7 |  DOBIJA primer1.csv ZA 68 ms
+22:20:05.552 | Thread 6 |  DOBIJA primer1.csv ZA 204 ms
+22:20:05.624 | Thread 4 | KES HIT ZA primer1
+22:20:05.624 | Thread 4 |  DOBIJA primer1.csv ZA 0 ms
+22:20:05.766 | Thread 3 | KES HIT ZA primer1
+22:20:05.766 | Thread 3 |  DOBIJA primer1.csv ZA 0 ms
+22:20:05.890 | Thread 5 | KES HIT ZA primer1
+22:20:05.891 | Thread 5 |  DOBIJA primer1.csv ZA 0 ms
+22:20:06.039 | Thread 7 | KES HIT ZA primer1
+22:20:06.040 | Thread 7 |  DOBIJA primer1.csv ZA 0 ms
+22:20:06.189 | Thread 6 | OBNAVLJANJE KESA ZA primer1
+22:20:06.189 | Thread 6 |  DOBIJA primer1.csv ZA 3 ms
+22:20:06.310 | Thread 4 | KES HIT ZA primer1
+22:20:06.311 | Thread 4 |  DOBIJA primer1.csv ZA 0 ms
+22:20:06.456 | Thread 3 | KES HIT ZA primer1
+22:20:06.456 | Thread 3 |  DOBIJA primer1.csv ZA 0 ms
+22:20:06.588 | Thread 5 | KES HIT ZA primer1
+22:20:06.588 | Thread 5 |  DOBIJA primer1.csv ZA 0 ms
+22:20:06.727 | Thread 7 | OBNAVLJANJE KESA ZA primer1
+22:20:06.728 | Thread 7 |  DOBIJA primer1.csv ZA 3 ms
+22:20:06.860 | Thread 6 | KES HIT ZA primer1
+22:20:06.860 | Thread 6 |  DOBIJA primer1.csv ZA 0 ms
+22:20:06.985 | Thread 4 | KES HIT ZA primer1
+22:20:06.986 | Thread 4 |  DOBIJA primer1.csv ZA 0 ms
+22:20:07.131 | Thread 3 | KES HIT ZA primer1
+22:20:07.131 | Thread 3 |  DOBIJA primer1.csv ZA 0 ms
+22:20:07.269 | Thread 5 | OBNAVLJANJE KESA ZA primer1
+22:20:07.270 | Thread 5 |  DOBIJA primer1.csv ZA 3 ms
+22:20:07.429 | Thread 7 | KES HIT ZA primer1
+22:20:07.429 | Thread 7 |  DOBIJA primer1.csv ZA 0 ms
+22:20:07.533 | Thread 6 | KES HIT ZA primer1
+22:20:07.533 | Thread 6 |  DOBIJA primer1.csv ZA 0 ms
+22:20:07.664 | Thread 4 | KES HIT ZA primer1
+22:20:07.664 | Thread 4 |  DOBIJA primer1.csv ZA 0 ms
